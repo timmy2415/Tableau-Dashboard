@@ -8,3 +8,5 @@ In this Tableau dashboard, I showcase how to:
 1) Build different graphs to depict key data metrics
 2) Use color, size, and position as a pre-attentive attribute to draw users attention to key insights
 3) Develop an interactive dashboard displaying key trends and patterns
+
+Refer to the "Covid-19 Dashboard.twbx" file to view and interact with the Tableau dashboard
